@@ -43,10 +43,10 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/ranjit-samal" target="blank">
+<a href="https://www.linkedin.com/in/ranjit-k-samal/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
-<a href="https://instagram.com/srs_subha" target="blank">
+<a href="https://instagram.com/_ranjit_08_" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
 </a>
 </p>
